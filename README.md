@@ -8,7 +8,7 @@ Synchronize background images with the weather conditions using Unsplash API
 # Installation
 Clone the repository: git clone https://github.com/pivvozavr/weather-app.git
 Open the project folder in your preferred code editor.
-Open index.html in your web browser.CopyCopy
+Open index.html in your web browser.
 # Usage
 Enter the desired location in the search bar.
 Click the "Search" button or press Enter.
